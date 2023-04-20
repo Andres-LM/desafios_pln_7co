@@ -3,5 +3,5 @@ Este repositorio contiene ..... para NLP (CEIA - FIUBA)
 
 ## Contenido
 
-### [Desafio 1](clase_1/README.md) 
+### [Desafio 1](desafio1/README.md) 
 * Vectorización de documentos
