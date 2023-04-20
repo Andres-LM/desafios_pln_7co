@@ -6,3 +6,6 @@ Este repositorio contiene la resolución de los desafíos de NLP (CEIA - FIUBA).
 
 ### [Desafio 1](desafio1/) 
 * Vectorización de documentos
+
+### [Desafio 2](desafio1/) 
+* Bot _Simple_
