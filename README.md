@@ -15,3 +15,6 @@ Este repositorio contiene la resolución de los desafíos de NLP (CEIA - FIUBA).
 
 ### [Desafio 4](desafio4/) 
 * Predicto próxima palabra
+
+### [Desafio 5](desafio5/) 
+* coming soon
