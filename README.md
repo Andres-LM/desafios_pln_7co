@@ -12,3 +12,6 @@ Este repositorio contiene la resolución de los desafíos de NLP (CEIA - FIUBA).
 
 ### [Desafio 3](desafio3/) 
 * Custom Embedding
+
+### [Desafio 4](desafio4/) 
+* Predicto próxima palabra
