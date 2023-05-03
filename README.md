@@ -18,3 +18,6 @@ Este repositorio contiene la resolución de los desafíos de NLP (CEIA - FIUBA).
 
 ### [Desafio 5](desafio5/) 
 * Sentiment Analysis
+
+### [Desafio 6](desafio6/) 
+* Bot
