@@ -17,4 +17,4 @@ Este repositorio contiene la resolución de los desafíos de NLP (CEIA - FIUBA).
 * Predicto próxima palabra
 
 ### [Desafio 5](desafio5/) 
-* coming soon
+* Sentiment Analysis
